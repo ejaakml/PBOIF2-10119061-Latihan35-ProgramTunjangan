@@ -11,6 +11,7 @@ import java.util.Scanner;
  * NAMA  : RHEIZA AKMAL R
  * KELAS : IF2
  * NIM   : 10119061
+ * Deskripsi Program : untuk menentukan tunjangan
  */
 public class PBOIF210119061Latihan35ProgramTunjangan {
 
